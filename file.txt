@@ -1,1 +1,2 @@
 this is git practical for devops
+This is content written after 1st Commit
